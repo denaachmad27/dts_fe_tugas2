@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins';
+}
+
+#name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 40px;
+}
+
+.container{
+    height: 500px;
+}
+
+img{
+    height: 243px;
+    width: 243px;
+}
